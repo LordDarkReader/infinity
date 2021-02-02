@@ -3,3 +3,6 @@ spring:
     user:
       name: admin
       password: dupa
+  data:
+    mongodb:
+      uri: mongodb://localhost/infinity_db
